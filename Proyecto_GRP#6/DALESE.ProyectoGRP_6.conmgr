@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DALESE.ProyectoGRP_6"
+  DTS:DTSID="{06E0CE75-54BC-4F55-9C66-E1591169400D}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DALESE;Initial Catalog=ProyectoGRP_6;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Proyecto_GRP#6-{06E0CE75-54BC-4F55-9C66-E1591169400D}DALESE.ProyectoGRP_6;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
